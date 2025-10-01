@@ -34,4 +34,5 @@ button {
 }
 #cepForm {
     width:100%;
+    display:flex;
 }
